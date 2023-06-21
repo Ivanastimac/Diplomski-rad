@@ -1,0 +1,11 @@
+QOI encode
+Vrijeme trajanje kodiranja slike: 122.60468435287476
+
+Velicina originalne slike (asarray): 50782521
+Velicina kompresirane slike: 34035207
+Postotak kompresije: 32.98
+
+QOI decode
+Vrijeme trajanja dekodiranja slike: 70.85669493675232
+
+Velicina rezultantne slike: 50782521

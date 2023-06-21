@@ -1,0 +1,12 @@
+bz2 encode
+Vrijeme trajanje kodiranja slike: 7.317582368850708
+
+bz2 decode
+Vrijeme trajanja dekodiranja slike: 0.7464761734008789
+
+Velicina originalne slike (asarray): 33177657
+Velicina komprimirane slike (asarray): 4351036
+Velicina rezultantne slike (asarray): 33177657
+
+Postotak kompresije: 86.89
+

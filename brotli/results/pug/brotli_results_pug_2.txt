@@ -1,0 +1,12 @@
+Brotli encode
+Vrijeme trajanje kodiranja slike: 79.16561031341553
+
+Brotli decode
+Vrijeme trajanja dekodiranja slike: 0.13371491432189941
+
+Velicina originalne slike (asarray): 39778797
+Velicina komprimirane slike (asarray): 10236052
+Velicina rezultantne slike (asarray): 39778797
+
+Postotak kompresije: 74.27
+
