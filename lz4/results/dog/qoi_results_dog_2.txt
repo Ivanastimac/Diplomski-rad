@@ -1,0 +1,12 @@
+LZ4 encode
+Vrijeme trajanje kodiranja slike: 0.24962925910949707
+
+LZ4 decode
+Vrijeme trajanja dekodiranja slike: 0.056844472885131836
+
+Velicina originalne slike (asarray): 74222825
+Velicina komprimirane slike (asarray): 67893553
+Velicina rezultantne slike (asarray): 74222825
+
+Postotak kompresije: 8.53
+

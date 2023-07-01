@@ -1,0 +1,5 @@
+LZ4 encode
+Vrijeme trajanje kodiranja slike: 0.3905336856842041
+
+Postotak kompresije: 8.90
+
